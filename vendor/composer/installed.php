@@ -3,7 +3,7 @@
         'name' => 'lihmooura/buscador-cursos',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '664a8e08962d1436fbd089e3952e5e7b0fba2a62',
+        'reference' => 'e9b23145644c755e262ad7dcb5499422ac1c426f',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -85,7 +85,7 @@
         'lihmooura/buscador-cursos' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '664a8e08962d1436fbd089e3952e5e7b0fba2a62',
+            'reference' => 'e9b23145644c755e262ad7dcb5499422ac1c426f',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
